@@ -1,3 +1,4 @@
+print("Fancy Edit")
 local middleclass = {}
 middleclass.__index = middleclass
 local Size = 1
